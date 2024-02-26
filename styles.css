@@ -1,0 +1,43 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section1 {
+    padding: 20px;
+    background-color: #001b28;
+    text-align: center;
+    color: #ffa500; 
+}
+
+.section2 {
+    padding: 20px;
+    background-color: #001b28;
+    overflow: hidden;
+}
+
+.section3 {
+    padding: 20px;
+    background-color: #001b28;
+}
+
+.section4 {
+    padding: 20px;
+    background-color: #001b28;
+    text-align: center;
+}
+
+.mySlides img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add more styles as needed */
