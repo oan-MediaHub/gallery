@@ -11,7 +11,7 @@ function showSlides() {
         slideIndex = 1;
     }
     slides[slideIndex - 1].style.display = "block";
-    setTimeout(showSlides, 1500); 
+    setTimeout(showSlides, 3000); 
 }
 
 document.addEventListener("DOMContentLoaded", showSlides);
